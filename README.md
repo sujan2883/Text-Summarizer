@@ -18,7 +18,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
+https://github.com/sujan2883/Text-Summarizer
 ```
 ### STEP 01- Create a virtual environment after opening the repository
 
