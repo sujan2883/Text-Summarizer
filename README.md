@@ -23,11 +23,11 @@ https://github.com/entbappy/End-to-end-Text-Summarization
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n summary python=3.8 -y
+python -m venv textSum
 ```
 
 ```bash
-conda activate summary
+source textsum/Scripts/activate
 ```
 
 
@@ -96,8 +96,6 @@ Email: sujanpasumarti@gmail.com
 
 ## 5. Open EC2 and Install docker in EC2 Machine:
 	
-	
-	#optinal
 
 	sudo apt-get update -y
 
